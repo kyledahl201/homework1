@@ -1,5 +1,13 @@
 # homework1
-User Story
+> Refactor a homework assignment
+This was a homework assignment where we refactored the HTML/CSS of a marketing website.
+## Completed
+  *Combined
+  *Improved
+  
+ 
+
+## User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
