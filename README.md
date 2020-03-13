@@ -1,4 +1,4 @@
-# Refacture
+# 01 HTML CSS Git: Code Refactor
 
 Week one homework, due 3/12/2020.
 
